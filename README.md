@@ -8,4 +8,4 @@
 	3. Forgot your Password option is available.
 	4. If you are a new user you can Register also.
 # Preview
-	Click for Preview: (https://muskan-salampuria.github.io/Muskan-Salampuria-HTML-CSS.github.io/Login.html)
+	Click for Preview:https://muskan-salampuria.github.io/Muskan-Salampuria-HTML-CSS.github.io/Login.html
