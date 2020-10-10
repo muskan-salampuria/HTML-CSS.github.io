@@ -11,4 +11,4 @@
 Click for Preview: https://muskan-salampuria.github.io/Muskan-Salampuria-HTML-CSS.github.io/Login.html
 
 
-![Preview](Preview.jpg)
+![Preview](Preview.JPG)
